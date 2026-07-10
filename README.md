@@ -2,7 +2,10 @@
 
 Aplikasi web full-stack toko roti online untuk UAS Pemrograman Web 2.
 
-**Nama:** Beni Mochtar Samiraharja · **NIM:** 23552011382 · **Kelas:** TIF K 23B · Universitas Teknologi Bandung
+Nama: Beni Mochtar Samiraharja<br>
+NIM: 23552011382<br>
+Kelas: TIF K 23B<br>
+Universitas Teknologi Bandung
 
 ## Deskripsi
 
@@ -53,8 +56,8 @@ produk (1) ──< pesanan_item >── (1) pesanan
 ### 2. Clone repository
 
 ```bash
-git clone https://github.com/USERNAME/uas-pemweb.git
-cd uas-pemweb
+git clone https://github.com/mochtars/uas_pemrograman_web_2
+cd uas_pemrograman_web_2
 ```
 
 ### 3. Siapkan database
